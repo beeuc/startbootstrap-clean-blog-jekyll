@@ -3,7 +3,7 @@ email:             info@beeuc.com
 description:       Development Blog
 author:            beeuc
 baseurl:           "/develop"
-url:               "https://www.beeuc.com"
+url:               "${BEEUCSITE}"
 
 # Social Profiles
 #twitter_username:  SBootstrap
